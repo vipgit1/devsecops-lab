@@ -1,0 +1,11 @@
+{
+  "name": "lab-sample-app",
+  "version": "1.0.0",
+  "description": "Tiny sample app for the DevSecOps lab. Deliberately uses old dependency versions.",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.4",
+    "minimist": "1.2.0"
+  }
+}
